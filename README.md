@@ -1,4 +1,4 @@
-# Capure and recognize faces
+# Capure and Recognize Faces
 Face Recognition using OpenCV with Python3
 
 # Capture a face 
